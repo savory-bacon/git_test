@@ -1,4 +1,4 @@
-Last modified on December 12, 2023 at 2:20PM.
+Last modified on December 12, 2023 at 6:37PM.
 
 I may use this space for some quick notes while working thru the Git Basics section of the fundamentals course.
 
@@ -9,3 +9,5 @@ Use ATOMIC COMMITS to make commit messages more useful to future collaborators
     > If something goes wrong, its easy to revert from the specific change without losing many other changes.
     
     > Pushes you to write better commit messages.
+
+I have added Git to my Surface Pro 9 as well as my desktop VM as of 6:36PM on December 12, 2023.
